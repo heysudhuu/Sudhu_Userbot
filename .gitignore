@@ -17,7 +17,7 @@ package-lock.json
 
 # Directories
 addons/
-pyUltroid/
+pySudhu/
 __pycache__/
 venv/
 node_modules/
